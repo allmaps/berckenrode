@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://allmaps.org/berckenrode/KZL_W_X_020",
+  "@id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/KZL_W_X_020",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {

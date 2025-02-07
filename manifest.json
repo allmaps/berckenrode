@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://allmaps.org/berckenrode/manifest.json",
+  "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -157,22 +157,22 @@
   ],
   "items": [
     {
-      "id": "https://allmaps.org/berckenrode/manifest.json/canvas/0",
+      "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json/canvas/0",
       "type": "Canvas",
       "height": 34708,
       "width": 39125,
       "items": [
         {
-          "id": "https://allmaps.org/berckenrode/manifest.json/canvas/0/annotation-page",
+          "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json/canvas/0/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://allmaps.org/berckenrode/KZL_W_X_020",
+              "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/KZL_W_X_020",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://allmaps.org/berckenrode/manifest.json/canvas/0",
+              "target": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json/canvas/0",
               "body": {
-                "id": "https://allmaps.org/berckenrode/KZL_W_X_020/full/full/0/default.jpg",
+                "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/KZL_W_X_020/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 34708,
@@ -180,7 +180,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://allmaps.org/berckenrode/KZL_W_X_020",
+                    "@id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/KZL_W_X_020",
                     "profile": [
                       "http://iiif.io/api/image/2/level0.json",
                       {
