@@ -6,7 +6,7 @@ Links to view and annotate the map:
 
 - [IIIF Presentation Manifest](https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
 - [Open in Allmaps Editor](https://editor.allmaps.org/#/collection?url=https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
-- [Open in Allmaps Viewer](https://viewer.allmaps.org/?url=https://editor.allmaps.org/#/collection?url=https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
+- [Open in Allmaps Viewer](https://viewer.allmaps.org/?url=https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
 - [Open in Theseus Viewer](https://theseus-viewer.netlify.app/?iiif-content=https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
 
 Technical information about the map:
