@@ -1,0 +1,21 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://allmaps.org/berckenrode/KZL_W_X_020",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": ["jpg"],
+      "qualities": ["default"]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [1, 2, 4, 8, 16, 32],
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "width": 39125,
+  "height": 34708
+}
