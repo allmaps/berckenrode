@@ -4,9 +4,10 @@ This repository contains static level 0 [IIIF Image API](https://iiif.io/api/ima
 
 Links to view and annotate the map:
 
-- [IIIF Presentation Manifest](https://allmaps.org/berckenrode/KZL_W_X_020/manifest.json)
-- [Open in Allmaps Editor](https://allmaps.org/berckenrode/KZL_W_X_020/manifest.json)
-- [Open in Theseus Viewer](https://theseus-viewer.netlify.app/?iiif-content=https://allmaps.org/berckenrode/KZL_W_X_020/manifest.json)
+- [IIIF Presentation Manifest](https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
+- [Open in Allmaps Editor](https://editor.allmaps.org/#/collection?url=https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
+- [Open in Allmaps Viewer](https://viewer.allmaps.org/?url=https://editor.allmaps.org/#/collection?url=https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
+- [Open in Theseus Viewer](https://theseus-viewer.netlify.app/?iiif-content=https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json)
 
 Technical information about the map:
 
