@@ -1,0 +1,210 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://allmaps.org/berckenrode/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Amstelredamum emporium Hollandiæ primarium totiusque Europæ celeberrimum"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": ["Title"]
+      },
+      "value": {
+        "none": [
+          "Amstelredamum emporium Hollandiæ primarium totiusque Europæ celeberrimum, Balthazar Florentius Batavus."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": ["Authors"]
+      },
+      "value": {
+        "none": [
+          "Molevliet, Philippus",
+          "Berckenrode, Balthasar Florisz. van (1591/1592-1645)",
+          "Schrijver, Pieter (1576-1660)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": ["Publisher"]
+      },
+      "value": {
+        "none": ["Amstelredami: sumptibus Philippi Molevlieti Zelandi"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Place of publication"]
+      },
+      "value": {
+        "none": ["Amstelredami"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Date"]
+      },
+      "value": {
+        "none": ["1630 - 1639"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Notes"]
+      },
+      "value": {
+        "en": [
+          "Woodblock title above map.; \"Cum privilegio sexennium.\"; Map drawn pictorially, in birds-eye view.; Oriented with north toward lower right.; Inset: \"Amstellandiae Limitumque eiusem Terrotorii, nova et correcta descriptio Pet. Scriveriii ... et manu B. Florentii MDCXXV.\"; Includes prospect of the city, coat of arms, 2 laudatory poems (Latin and Dutch) by Petrus Scriverius and index."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": ["Document type"]
+      },
+      "value": {
+        "en": ["Single map"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Extent"]
+      },
+      "value": {
+        "en": ["1 map on 9 sheets"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Dimensions"]
+      },
+      "value": {
+        "en": ["139 x 156.5 cm, on sheets approximately 45.5 x 53.5 cm"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Scale"]
+      },
+      "value": {
+        "en": ["Approximately 1:1,950"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Keywords"]
+      },
+      "value": {
+        "en": ["Early maps; Netherlands; Pictorial maps"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Bibliography"]
+      },
+      "value": {
+        "none": ["Hameleers, M. Kaarten van Amsterdam 1538-1865, vol. 1,"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Digitization"]
+      },
+      "value": {
+        "en": ["Henni van Beek, February 6 2025"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Shelfmark"]
+      },
+      "value": {
+        "none": ["OTM: HB-KZL W.X. 020"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Persistent Identifier"]
+      },
+      "value": {
+        "none": ["https://hdl.handle.net/11245/3.39844"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Catalogue"]
+      },
+      "value": {
+        "none": ["https://pid.uba.uva.nl/ark:/88238/b19941298426805131"]
+      }
+    },
+    {
+      "label": {
+        "en": ["Copyright"]
+      },
+      "value": {
+        "en": [
+          "This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights."
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://allmaps.org/berckenrode/manifest.json/canvas/0",
+      "type": "Canvas",
+      "height": 34708,
+      "width": 39125,
+      "items": [
+        {
+          "id": "https://allmaps.org/berckenrode/manifest.json/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://allmaps.org/berckenrode/KZL_W_X_020",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/berckenrode/manifest.json/canvas/0",
+              "body": {
+                "id": "https://allmaps.org/berckenrode/KZL_W_X_020/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 34708,
+                "width": 39125,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://allmaps.org/berckenrode/KZL_W_X_020",
+                    "profile": [
+                      "http://iiif.io/api/image/2/level0.json",
+                      {
+                        "formats": ["jpg"],
+                        "qualities": ["default"]
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "tiles": [
+                      {
+                        "scaleFactors": [1, 2, 4, 8, 16, 32],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "width": 39125,
+                    "height": 34708
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
